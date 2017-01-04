@@ -1,0 +1,14 @@
+p{
+  float: left;
+}
+
+ul{
+  float: left;
+  width:10%;
+  background-color:yellow;
+}
+
+img{
+  width: 300px;
+  float: right;
+}
