@@ -4,11 +4,19 @@ p{
 
 ul{
   float: left;
-  width:10%;
+  width:20%;
   background-color:yellow;
+  margin: 12px;
+  border: 10px solid green;
+  padding: 4px;
 }
 
 img{
   width: 300px;
   float: right;
+  padding: 20px
+}
+
+body{
+  background-color: blue;
 }
